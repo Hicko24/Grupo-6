@@ -1,5 +1,5 @@
-#Proyecto Equipo 6 
-##Avance del Proyecto – Métodos Numéricos 14/12/2025
+# Proyecto Equipo 6 
+## Avance del Proyecto – Métodos Numéricos 14/12/2025
 
 ## Estado actual
 En esta etapa se desarrolló el  dataset con las variables definidas previamente como variables de interes , realizando asi procesos como el filtrado y limpieza de datos mediante un script en Python.
